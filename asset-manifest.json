@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-foodblog/static/css/main.524c07ef.chunk.css",
+    "main.js": "/react-foodblog/static/js/main.46c81e57.chunk.js",
+    "main.js.map": "/react-foodblog/static/js/main.46c81e57.chunk.js.map",
+    "runtime-main.js": "/react-foodblog/static/js/runtime-main.61241650.js",
+    "runtime-main.js.map": "/react-foodblog/static/js/runtime-main.61241650.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/react-foodblog/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cd9dba4f.chunk.js": "/react-foodblog/static/js/2.cd9dba4f.chunk.js",
+    "static/js/2.cd9dba4f.chunk.js.map": "/react-foodblog/static/js/2.cd9dba4f.chunk.js.map",
+    "index.html": "/react-foodblog/index.html",
+    "precache-manifest.3c3b5481fd5407d75ce1bb69533cccfe.js": "/react-foodblog/precache-manifest.3c3b5481fd5407d75ce1bb69533cccfe.js",
+    "service-worker.js": "/react-foodblog/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/react-foodblog/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.524c07ef.chunk.css.map": "/react-foodblog/static/css/main.524c07ef.chunk.css.map",
+    "static/js/2.cd9dba4f.chunk.js.LICENSE.txt": "/react-foodblog/static/js/2.cd9dba4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61241650.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cd9dba4f.chunk.js",
+    "static/css/main.524c07ef.chunk.css",
+    "static/js/main.46c81e57.chunk.js"
+  ]
+}
