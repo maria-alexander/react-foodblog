@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa5c86f8d17b12e3748b916e0264d976",
+    "revision": "90e628f3923696b3920a10eaa0dbd349",
     "url": "/react-foodblog/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-foodblog/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "57edf92c2bd8234be4b2",
-    "url": "/react-foodblog/static/css/main.524c07ef.chunk.css"
+    "revision": "c21a8848556f32b57f7d",
+    "url": "/react-foodblog/static/css/main.e3059258.chunk.css"
   },
   {
     "revision": "007460e6d53920d75446",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-foodblog/static/js/2.cd9dba4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57edf92c2bd8234be4b2",
+    "revision": "c21a8848556f32b57f7d",
     "url": "/react-foodblog/static/js/main.8a8cede9.chunk.js"
   },
   {
