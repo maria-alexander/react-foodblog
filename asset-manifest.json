@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-foodblog/static/css/main.524c07ef.chunk.css",
-    "main.js": "/react-foodblog/static/js/main.46c81e57.chunk.js",
-    "main.js.map": "/react-foodblog/static/js/main.46c81e57.chunk.js.map",
+    "main.js": "/react-foodblog/static/js/main.f47c249a.chunk.js",
+    "main.js.map": "/react-foodblog/static/js/main.f47c249a.chunk.js.map",
     "runtime-main.js": "/react-foodblog/static/js/runtime-main.61241650.js",
     "runtime-main.js.map": "/react-foodblog/static/js/runtime-main.61241650.js.map",
     "static/css/2.3c03f26f.chunk.css": "/react-foodblog/static/css/2.3c03f26f.chunk.css",
     "static/js/2.cd9dba4f.chunk.js": "/react-foodblog/static/js/2.cd9dba4f.chunk.js",
     "static/js/2.cd9dba4f.chunk.js.map": "/react-foodblog/static/js/2.cd9dba4f.chunk.js.map",
     "index.html": "/react-foodblog/index.html",
-    "precache-manifest.3c3b5481fd5407d75ce1bb69533cccfe.js": "/react-foodblog/precache-manifest.3c3b5481fd5407d75ce1bb69533cccfe.js",
+    "precache-manifest.191bd4a0a73cd4f152a71484ba13b970.js": "/react-foodblog/precache-manifest.191bd4a0a73cd4f152a71484ba13b970.js",
     "service-worker.js": "/react-foodblog/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/react-foodblog/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.524c07ef.chunk.css.map": "/react-foodblog/static/css/main.524c07ef.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.cd9dba4f.chunk.js",
     "static/css/main.524c07ef.chunk.css",
-    "static/js/main.46c81e57.chunk.js"
+    "static/js/main.f47c249a.chunk.js"
   ]
 }
